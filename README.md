@@ -1,17 +1,17 @@
 # Проект 1. Анализ данных HH.ru
 
 ## Оглавление
-[1. Описание проекта](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Описаниепроекта)
+[1. Описание проекта](https://github.com/step4k777/Project-1/blob/master/README.md#Описаниепроекта)
 
-[2. Какой кейс решаем?](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Какойкейсрешаем)
+[2. Какой кейс решаем?](https://github.com/step4k777/Project-1/blob/master/README.md#Какойкейсрешаем)
 
-[3. Краткая информация о данных](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Краткаяинформацияоданных)
+[3. Краткая информация о данных](https://github.com/step4k777/Project-1/blob/master/README.md#Краткаяинформацияоданных)
 
-[4. Этапы работы над проектом](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Этапы_работы_над_проектом)
+[4. Этапы работы над проектом](https://github.com/step4k777/Project-1/blob/master/README.md#Этапы_работы_над_проектом)
 
-[5. Результат](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Результат)
+[5. Результат](https://github.com/step4k777/Project-1/blob/master/README.md#Результат)
 
-[6. Выводы](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Выводы)
+[6. Выводы](https://github.com/step4k777/Project-1/blob/master/README.md#Выводы)
 
 ### Описание проекта
 Исследовать струтуру данных, провести их предобработку для дальнейшей работы, провести разведовательный анализ данных и произвести очистку данных от дублей и выбросов (аномалий)
@@ -62,7 +62,7 @@
 И, т.к. GitHub не воспроизводит графики plotly, то они лежат отдельно в папке тут: https://github.com/step4k777/Project-1/tree/master/Project-1/Graphs
 
 
-:arrow_up: [к оглавлению](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/step4k777/Project-1/blob/master/README.md#оглавление)
 
 
 ### Этапы работы над проектом
@@ -71,16 +71,16 @@
 3) Разведывательный анализ
 4) Очистка данных
 
-:arrow_up: [к оглавлению](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/step4k777/Project-1/blob/master/README.md#оглавление)
 
 
 ### Результат:
 После рассмотрения структуры данных выявили проблемы и устранили их путем преобразования данных к более удобному формату, провели разведывательный анализ данных и избавились от пропусков и аномальных значений
 
-:arrow_up: [к оглавлению](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/step4k777/Project-1/blob/master/README.md#оглавление)
 
 
 ### Выводы
 По итогу у нас есть готовый дата-сет в более удобном, для анализа, формате, закрепили навыки преобразования, визуализации и очистки данных, улучшили навыки работы с GitHub и оформили первый проект
 
-:arrow_up: [к оглавлению](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/step4k777/Project-1/blob/master/README.md#оглавление)
