@@ -7,7 +7,7 @@
 
 [3. Краткая информация о данных](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Краткаяинформацияоданных)
 
-[4. Этапы работы над проектом](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Этапыработынадпроектом)
+[4. Этапы работы над проектом](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Этапы_работы_над_проектом)
 
 [5. Результат](https://github.com/step4k777/First/blob/main/Project%200/Readme.md#Результат)
 
